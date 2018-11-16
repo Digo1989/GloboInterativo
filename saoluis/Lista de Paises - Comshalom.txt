@@ -1,0 +1,32 @@
+276      Alemanha
+12      Algeria
+32      Argentina
+68      Bolivia
+124     Canada 
+132     Cabo Verde
+152     Chile
+156     China
+170	   Colombia
+724      Espanha
+840     Estados Unidos
+608     Filipinas
+250	France
+328     Guiana Francesa
+348     Hungria
+        Inglaterra
+376     Israel
+380     Italia
+591     Panama
+600	   Paraguay
+450     Madagascar
+508     Moçambique
+604     Peru
+616     Polonia
+620     Portugal 
+756     Suiça
+788       Tunisia
+858        Uruguai
+
+
+12,32,68,124,132,152,156,170,250,276,328,348,450,508,591,600,604,
+608,616,620,724,756,788,840,858
